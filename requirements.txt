@@ -1,0 +1,7 @@
+dash==2.9.3
+dash_cytoscape==0.3.0
+numpy==1.24.4
+pandas==2.0.3
+visdcc==0.0.50
+gunicorn
+dash-tools
